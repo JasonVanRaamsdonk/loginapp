@@ -7,6 +7,5 @@ if(!$connection)
 {
     die("Database connection failed");
 }
-    
 
 ?>
